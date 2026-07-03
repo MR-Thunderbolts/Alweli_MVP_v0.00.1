@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Alweli",
+  "description": "Un recordatorio de salud y asistencia para adultos mayores, diseñado con minimalismo empático y facilidad cognitiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
